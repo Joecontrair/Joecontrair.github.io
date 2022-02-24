@@ -5,4 +5,4 @@ layout: post
 # Welcome
 TESTING
 
-[back](./)
+[back](/)
