@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: FIRST
 author: Joe Daly
 ---
