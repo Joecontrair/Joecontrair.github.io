@@ -6,4 +6,4 @@ I honestly don't have all that much to talk about but I figured I'd make a littl
 
 # Resume: 
 This is my General Resume, essentially a list of all previous job experience and relevant educational experiences. 
-[Resume](Resume General Joe Daly.pdf)
+[Resume](assets/Resume General Joe Daly.pdf)
