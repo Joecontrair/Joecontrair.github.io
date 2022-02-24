@@ -1,6 +1,6 @@
 ---
 title: 1st Post!
-layout: post
+layout: single
 ---
 
 ## TESTING
