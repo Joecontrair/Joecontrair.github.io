@@ -9,5 +9,10 @@ Welcome to the Blog Page. Here I will hopefully have an index of Blogs or someth
 # Posts
 [Post 1](Post1.html)
 
+# Nerd shit
+
+# Math Crap
+[Odd-proof](FOMproof.md)
+
 
 [back](./)

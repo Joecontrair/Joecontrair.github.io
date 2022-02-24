@@ -16,3 +16,5 @@ For each of the following:
 - all that glitters is not gold.
 
 [Proof](assets/Stuff in FOM 1.pdf)
+
+[back](BlogPage.md)
