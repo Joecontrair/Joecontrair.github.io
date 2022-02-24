@@ -7,7 +7,7 @@ Welcome to the Blog Page. Here I will hopefully have an index of Blogs or someth
 puzzles we've been working on. <br/>
 
 # First Post!
-[FIRST POST](posts/2022-February-23rd-First.md)
+[FIRST POST](_posts/2022-February-23rd-First.html)
 
 [back](./)
 
