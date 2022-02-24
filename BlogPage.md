@@ -7,11 +7,3 @@ Welcome to the Blog Page. Here I will hopefully have an index of Blogs or someth
 puzzles we've been working on. <br/>
 
 [back](./)
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
