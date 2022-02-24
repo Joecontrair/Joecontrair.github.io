@@ -7,7 +7,7 @@ Welcome to the Blog Page. Here I will hopefully have an index of Blogs or someth
 
 <!-- I fucking hate this -->
 # Posts
-[Post 1](POST/Post1.html)
+[Post 1](Post1.html)
 
 
 [back](./)
