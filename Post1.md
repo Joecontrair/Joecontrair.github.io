@@ -1,8 +1,7 @@
 ---
 layout: post
-author: Joe Daly
 ---
 
 TESTING
 
-[back](./)
+[back](BlogPage.md)
