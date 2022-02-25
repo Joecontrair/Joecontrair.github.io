@@ -9,7 +9,7 @@ I think I finally got it!I'm so trash at HTML lmao. Or whatever this is. Good jo
 [back](BlogPage.md)
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo=" Joecontrair / Joecontrair.github.io "
         issue-term="pathname"
         label="Comment"
         theme="github-light"

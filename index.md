@@ -8,3 +8,4 @@ This is gonna be a mix of neat websites and other posts I've found and some of t
 # Resume: 
 This is my General Resume, essentially a list of all previous job experience and relevant educational experiences. 
 [Resume](assets/Resume General Joe Daly.pdf)
+
