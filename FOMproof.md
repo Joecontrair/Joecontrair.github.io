@@ -19,11 +19,3 @@ For each of the following:
 
 [back](BlogPage.md)
 
-<script src="https://utteranc.es/client.js"
-        repo=" Joecontrair/Joecontrair.github.io "
-        issue-term="pathname"
-        label="Comment"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
