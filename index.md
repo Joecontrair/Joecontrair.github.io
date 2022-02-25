@@ -3,7 +3,7 @@ Hey, I'm Joe Daly here to give you Joe Daily. I'm a student enrolled at St Mary'
 ![Me](https://github.com/Joecontrair/Joecontrair.github.io/blob/main/assets/Images/Pic.png?raw=true)
 
 # Blog: 
-I honestly don't have all that much to talk about but I figured I'd make a little blog page anyway! [Blog](BlogPage.md)
+This is gonna be a mix of neat websites and other posts I've found and some of the current Proofs I've been working on in Foundations of Mathematics. [Blog](BlogPage.md)
 
 # Resume: 
 This is my General Resume, essentially a list of all previous job experience and relevant educational experiences. 
