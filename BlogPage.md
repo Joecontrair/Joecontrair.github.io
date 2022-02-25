@@ -13,6 +13,7 @@ Here I'll probably just have random posts and things that I'm testing out.
 # Math/proofs
 This is where I'll upload proofs and various puzzles that we've been working on in class
 [Odd-proof](FOMproof.md)
+[Knights And Knaves](KnightsAndKnaves.md)
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting
