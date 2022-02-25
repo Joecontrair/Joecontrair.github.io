@@ -19,7 +19,8 @@ Here I'll probably just post links to random websites or just things I found int
 <br/>
 My professor has her own website actually! Shes got some neat artwork and some fun things of her own going on! <br/>
 
-[My Professors Website](http://faculty.smcm.edu/sgoldstine/)
-
+[My Professors Website](http://faculty.smcm.edu/sgoldstine/) <br/>
+<br/>
+My Buddy forrest has their own punk rock band based in central cali so if that's your style or are just looking for a new genre to get into definitely give amphibiology a look. [Amphibiology](https://linktr.ee/altfrogband)
 
 [back](./)
