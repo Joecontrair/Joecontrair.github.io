@@ -1,5 +1,5 @@
-jekyll-include-cache
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+
+theme: Minimal theme
 title: Personal website
 logo: assets/Images/Joecool.png
 author: Joe Daly
@@ -7,4 +7,3 @@ description: >
   Undergraduate studying Mathematics at St Marys College of Maryland <br/>
   <a href="mailto:jtdaly@smcm.edu">Email</a> | <a href="https://www.linkedin.com/in/joecontrair/">LinkedIn</a> | <a href="https://www.instagram.com/thedalyjoe/">Instagram</a>
 
-bundle
