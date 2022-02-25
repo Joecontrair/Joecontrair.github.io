@@ -13,3 +13,5 @@ This is gonna be a mix of neat websites and other posts I've found and some of t
 This is my General Resume, essentially a list of all previous job experience and relevant educational experiences. 
 [Resume](assets/Resume General Joe Daly.pdf)
 
+# My Roomate!
+Felt liking making a page for ma roomie so I did. [Roomie](Roomie.md)
