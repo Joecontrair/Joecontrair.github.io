@@ -2,5 +2,5 @@ This was a little Logic puzzle that we did in FOM a few weeks back to give us an
 <br/>
 ![Knights and Knaves](Knights and Knaves.jpg)
 <br/>
-[My answers to these](assets/Knights and Knaves.pdf)
+[My answers to these](assets/Knights and Knaves.pdf) <br/>
 [back](./)
