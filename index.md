@@ -14,5 +14,7 @@ This is my General Resume, essentially a list of all previous job experience and
 [Resume](assets/Resume General Joe Daly.pdf)
 
 # The pals
-Felt like making a page for ma roomie so I did. [Roomie](Roomie.md)
-Heres Kepp: [Keppler]()
+Felt like making a page for ma roomie so I did. [Roomie](Roomie.md)<br/>
+
+Heres Kepp: [Keppler](Keppler.md)
+
