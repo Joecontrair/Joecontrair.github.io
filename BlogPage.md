@@ -11,10 +11,11 @@ Here I'll probably just have random posts and things that I'm testing out.
 [Post 1](Post1.html)
 
 # Math/proofs
-This is where I'll upload proofs and various puzzles that we've been working on in class
+This is where I'll upload proofs and various puzzles that we've been working on in class<br/>
 [Negations](FOMproof.md)<br/>
 [Knights And Knaves](KnightsAndKnaves.md) <br/>
-[Simple odd proof](OddProof.md)
+[Simple odd proof](OddProof.md)<br/>
+
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting
