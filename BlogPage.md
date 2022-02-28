@@ -8,12 +8,12 @@ Welcome to the Blog Page. Here I will hopefully have an index of Blogs or someth
 <!-- Comment -->
 # Posts
 Here I'll probably just have random posts and things that I'm testing out. 
-[Post 1](Post1.html)
+[Post 1](Blogs/Post1.html)
 
 # Math/proofs
 This is where I'll upload proofs and various puzzles that we've been working on in class
-[Odd-proof](FOMproof.md)<br/>
-[Knights And Knaves](KnightsAndKnaves.md)
+[Odd-proof](Blogs/FOMproof.md)<br/>
+[Knights And Knaves](Blogs/KnightsAndKnaves.md)
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting
