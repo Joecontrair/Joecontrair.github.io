@@ -18,3 +18,5 @@ Felt like making a page for ma roomie so I did. [Roomie](Pages/Roomie.md)<br/>
 
 Heres Kepp: [Keppler](Pages/Keppler.md)
 
+# Tests
+[HTML Test](Test.html)

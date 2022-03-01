@@ -9,7 +9,6 @@ Welcome to the Blog Page. Here I will hopefully have an index of Blogs or someth
 # Posts
 Here I'll probably just have random posts and things that I'm testing out. 
 [Post 1](Post1.html)
-[HTML Test](Test.html)
 
 # Math/proofs
 This is where I'll upload proofs and various puzzles that we've been working on in class<br/>
