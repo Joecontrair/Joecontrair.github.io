@@ -33,4 +33,4 @@ My other bud Drake has been making some neat Vaporwave stuff? Or thats what they
 [Drakes Twitter](https://twitter.com/WorldlyDragon)
 
 
-[back](C:\Users\joeco\OneDrive\Desktop\Joecontrair.github.io\index.md)
+[back](index.md)
