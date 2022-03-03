@@ -16,5 +16,5 @@ This is my General Resume, essentially a list of all previous job experience and
 # The pals
 Felt like making a page for ma roomie so I did. [Roomie](Pages/Roomie.md)<br/>
 
-Heres Kepp: [Keppler](Pages/Keppler.md)
+Heres Kepp: [Keppler](Personal/Keppler.md)
 

@@ -17,5 +17,5 @@ For each of the following:
 
 [Proof](assets/Stuff in FOM 1.pdf)
 
-[back](BlogPage.md)
+[back](../BlogPage.md)
 

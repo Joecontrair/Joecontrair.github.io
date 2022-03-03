@@ -1,3 +1,3 @@
 Just a simple little definition and proof of Odd. 
 [Odd Proof](assets/Simple odd proof.pdf) <br/>
-[back](BlogPage.md)
+[back](../BlogPage.md)
