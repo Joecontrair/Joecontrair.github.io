@@ -7,14 +7,14 @@ Hey, I'm Joe Daly here to give you Joe Daily. I'm a student enrolled at St Mary'
 ![Me](Personal/assets/Images/Pic.png)
 
 # Blog: 
-This is gonna be a mix of neat websites and other posts I've found and some of the current Proofs I've been working on in Foundations of Mathematics. [Blog](Pages/BlogPage.md)
+This is gonna be a mix of neat websites and other posts I've found and some of the current Proofs I've been working on in Foundations of Mathematics. [Blog](Personal/BlogPage.md)
 
 # Resume: 
 This is my General Resume, essentially a list of all previous job experience and relevant educational experiences. 
 [Resume](assets/Resume General Joe Daly.pdf)
 
 # The pals
-Felt like making a page for ma roomie so I did. [Roomie](Pages/Roomie.md)<br/>
+Felt like making a page for ma roomie so I did. [Roomie](Personal/Roomie.md)<br/>
 
 Heres Kepp: [Keppler](Personal/Keppler.md)
 
