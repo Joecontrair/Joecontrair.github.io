@@ -1,7 +1,7 @@
 ---
 layout: default
-author_profile: true
 ---
+<button onClick="togglePlay()">tunes</button>
 # About Me:
 Hey, I'm Joe Daly here to give you Joe Daily. I'm a student enrolled at St Mary's College of Maryland studying Mathematics with a minor in both Philosophy and Business. I currently work 3 jobs on campus and hope to continue building up my Resume! As of last year I have taken up climbing and can now do up to V5s, and recently have started learning a little bit of computer science. <br/>
 ![Me](Personal/assets/Images/Pic.png)
@@ -18,3 +18,22 @@ Felt like making a page for ma roomie so I did. [Roomie](Personal/Roomie.md)<br/
 
 Heres Kepp: [Keppler](Personal/Keppler.md)
 
+<audio id="myAudio" src="Personal\assets\Audio\Saint Pepsi - Enjoy yourself.mp3" type="Audio/mp3" preload="auto">
+</audio>
+
+<script>
+
+    var myAudio = document.getElementById("myAudio");
+    var isPlaying = false;
+
+    function togglePlay() {
+    isPlaying ? myAudio.pause() : myAudio.play();
+    };
+
+    myAudio.onplaying = function() {
+    isPlaying = true;
+    };
+    myAudio.onpause = function() {
+    isPlaying = false;
+    };
+</script>
