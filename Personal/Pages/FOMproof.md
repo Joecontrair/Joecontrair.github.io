@@ -15,7 +15,7 @@ For each of the following:
 - When it rains, it pours
 - all that glitters is not gold.
 
-[Proof](assets/Stuff in FOM 1.pdf)
+[Proof](../assets/Stuff in FOM 1.pdf)
 
 [back](../BlogPage.md)
 
