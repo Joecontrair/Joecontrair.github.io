@@ -4,7 +4,7 @@ layout: default
 <button onClick="togglePlay()">tunes</button>
 # About Me:
 Hey, I'm Joe Daly here to give you Joe Daily. I'm a student enrolled at St Mary's College of Maryland studying Mathematics with a minor in both Philosophy and Business. I currently work 3 jobs on campus and hope to continue building up my Resume! As of last year I have taken up climbing and can now do up to V5s, and recently have started learning a little bit of computer science. <br/>
-![Me](Personal/assets/Images/Pic.png)
+![Me](Personal/assets/Images/Joe%2BStan.jpg)<br/>
 
 # Blog: 
 This is gonna be a mix of neat websites and other posts I've found and some of the current Proofs I've been working on in Foundations of Mathematics. [Blog](Personal/BlogPage.md)
