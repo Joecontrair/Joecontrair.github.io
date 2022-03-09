@@ -19,7 +19,7 @@ This here is Hayden Anderson, ma roomie. Figured he deserved the honor of having
     const songIndex = Math.round(Math.random()*(songs.length-1))
     const WeezerRouletteElement = document.getElementById("Weezer Roulette")
     WeezerRouletteElement.setAttribute("src", songs[songIndex])
-    var pauseWeezer = document.getElementById("WeezerRouletteElement");
+    var pauseWeezer = document.getElementById(WeezerRouletteElement);
     if(pauseWeezer.paused){WeezerRouletteElement.play()}
     else{WeezerRouletteElement.pause()}
     }
