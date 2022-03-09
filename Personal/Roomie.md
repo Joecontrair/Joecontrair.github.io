@@ -14,6 +14,7 @@ This here is Hayden Anderson, ma roomie. Figured he deserved the honor of having
 
 
 <script>
+    
     const songs = ["/Personal/assets/Audio/Camel by Camel - Mix Vocal.mp3","/Personal/assets/Audio/Weezer - Island In The Sun.mp3","/Personal/assets/Audio/Weezer - Say It Ain't So.mp3","/Personal/assets/Audio/Weezer (Red Album) - Pork and Beans.mp3"]
     function playSong(){
     const songIndex = Math.round(Math.random()*(songs.length-1))
@@ -26,6 +27,7 @@ This here is Hayden Anderson, ma roomie. Figured he deserved the honor of having
     else{
         WeezerRouletteElement.pause();
         } 
-    }
+    };
     
 </script> 
+
