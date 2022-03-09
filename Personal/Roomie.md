@@ -20,12 +20,11 @@ This here is Hayden Anderson, ma roomie. Figured he deserved the honor of having
     const WeezerRouletteElement = document.getElementById("Weezer Roulette")
     WeezerRouletteElement.setAttribute("src", songs[songIndex])
 
-    var audioElement= document.getElementById("Weezer Roulette");
-    if(audioElement.paused){
-        audioElement.play();
+    if(.WeezerRouletteElement.paused){
+        WeezerRouletteElement.play();
         }
     else{
-        audioElement.pause();
+        WeezerRouletteElement.pause();
         } 
     }
     
