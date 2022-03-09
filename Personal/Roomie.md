@@ -12,6 +12,7 @@ This here is Hayden Anderson, ma roomie. Figured he deserved the honor of having
 <audio id="Weezer Roulette" src="assets/Audio/FrogsUpdated.mp3" type="audio/mp3" preload="auto">
     </audio>
 
+
 <script>
     const songs = ["Personal/assets/Audio/Camel by Camel - Mix Vocal.mp3","Personal/assets/Audio/Weezer - Island In The Sun.mp3",
     "Personal/assets/Audio/Weezer - Say It Ain't So.mp3","Personal/assets/Audio/Weezer (Red Album) - Pork and Beans.mp3"]
@@ -19,7 +20,8 @@ This here is Hayden Anderson, ma roomie. Figured he deserved the honor of having
     const songIndex = Math.round(Math.random()*(songs.length-1))
     const WeezerRouletteElement = document.getElementById("Weezer Roulette")
     WeezerRouletteElement.setAttribute("src", songs[songIndex])
-    WeezerRouletteElement.play()
+    if(WeezerRouletteElement.paused){WeezerRouletteElement.play()}
+    else{WeezerRouletteElement.pause()}
     }
     
 </script> 
