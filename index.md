@@ -15,8 +15,10 @@ This is my General Resume, essentially a list of all previous job experience and
 
 # The pals
 Felt like making a page for ma roomie so I did. [Roomie](Personal/Roomie.md)<br/>
+Some of my other buds too!: <br/>
+[Keppler](Personal/Keppler.md)<br/>
 
-Heres Kepp: [Keppler](Personal/Keppler.md)
+[Forrest](Personal/Forrest.html)
 
 <audio id="myAudio" src="Personal\assets\Audio\Saint Pepsi - Enjoy yourself.mp3" type="Audio/mp3" preload="auto">
 </audio>

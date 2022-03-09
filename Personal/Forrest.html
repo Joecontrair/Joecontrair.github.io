@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joe Dalys Page</title>
+    <h1>Forrests Page</h1>
+    <audio id="Forrests Song" src="assets/Audio/FrogsUpdated.mp3" type="audio/mp3" preload="auto">
+    </audio>
+    <script>
+
+        var myAudio = document.getElementById("Forrests Song");
+        var isPlaying = false;
+
+        function togglePlay() {
+        isPlaying ? myAudio.pause() : myAudio.play();
+        };
+
+        myAudio.onplaying = function() {
+        isPlaying = true;
+        };
+        myAudio.onpause = function() {
+        isPlaying = false;
+        };
+    </script>
+    
+<head>
+<body>
+    <body style="background-color:#145e0e;"></body>
+    <center>
+        <h1>Forrest</h1>
+        <img src="assets/Images/Forrest.png" style="height: 256px;">
+        <p>This here is Forrest, a long friend since 6th grade! <br/>
+        They currently live in Central California where they're <br/>
+        studying comp sci and making an emo punk band.
+        </p>
+    </center>
+<button onClick="togglePlay()">music</button> <br/>
+<p>This here is a one of their most recent songs "Frogs". <br/>
+    In another part of my website I link to their linktree if you want to check them out!</p>
+
+<body>
+
+</html>
