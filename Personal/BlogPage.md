@@ -16,6 +16,7 @@ This is where I'll upload proofs and various puzzles that we've been working on 
 [Knights And Knaves](Pages/KnightsAndKnaves.md) <br/>
 [Simple odd proof](Pages/OddProof.md)<br/>
 [Various proofs](Pages/Several-proofs.md)<br/>
+[Test mathjax](Pages/Math.md)<br/>
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting
