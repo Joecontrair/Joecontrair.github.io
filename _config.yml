@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Personal website
+markdown: kramdown
 logo: Personal/assets/Images/Joecool.png
 author: Joe Daly
 description: 

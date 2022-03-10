@@ -1,5 +1,9 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+---
+layout: default
+usemathjax: true
+---
+
+Notes From class: 
 
 a,b ∈ $Z$
 The Division Algorithm (Actually a theorem):
@@ -11,10 +15,10 @@ __________________________________________
 Definition: Suppose a∈$Z$. We say that a is even when there exists n∈$Z$ such that a=2n. We say that a is odd when there exists k∈$Z$ such that a=2k+1
 
 Claim: Suppose a∈$Z$. Then a is even or a is odd, and a can't be both even and odd. 
-__________________________
+
 Could a be both even and odd? Suppose so. This means that there exists integers k and n such that a=2n = 2k+1. Then n=k+(1/2), and so n-k=(1/2). 
 But since n and k are integers and $Z$ is closed under subtraction, n-k∈$Z$. This would make (1/2) an integer, which it isn't. 
-____________________________________________
+
 Recall: 
 Definition: Suppose a and b are integers. Then b divideds a, denoted b|a, when there exists an integer k such that a = bk.
 
