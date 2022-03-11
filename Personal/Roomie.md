@@ -17,11 +17,11 @@ This here is Hayden Anderson, ma roomie. Figured he deserved the honor of having
     
     const songs = ["/Personal/assets/Audio/Camel by Camel - Mix Vocal.mp3","/Personal/assets/Audio/Weezer - Island In The Sun.mp3","/Personal/assets/Audio/Weezer - Say It Ain't So.mp3","/Personal/assets/Audio/Weezer (Red Album) - Pork and Beans.mp3"]
     function playSong(){
-    const songIndex = Math.round(Math.random()*(songs.length-1))
     const WeezerRouletteElement = document.getElementById("Weezer Roulette")
-    WeezerRouletteElement.setAttribute("src", songs[songIndex])
 
     if(WeezerRouletteElement.paused){
+        const songIndex = Math.round(Math.random()*(songs.length-1))
+        WeezerRouletteElement.setAttribute("src", songs[songIndex])
         WeezerRouletteElement.play();
         }
     else{
@@ -30,4 +30,3 @@ This here is Hayden Anderson, ma roomie. Figured he deserved the honor of having
     };
     
 </script> 
-
