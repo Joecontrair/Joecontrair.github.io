@@ -42,7 +42,7 @@ So like I said before I've been doing some googling to try and add neat stuff to
 [MathJax](https://www.mathjax.org/#gettingstarted) This here is the MathJax website where I found the actual code fot getting LaTex into my site.
 [MathJax/Obsidian](https://docs.mathjax.org/en/latest/input/tex/delimiters.html) This here is where I found how to change the delimiters. 
 # Other neat things!
-Recently I've been using [Obsidian](https://obsidian.md/), and it also uses MathJax for it's (rendering?), and I figured maybe you all would be interesting in learning the (code?) for it to convert it into actual math symbols and such? 
+Recently I've been using [Obsidian](https://obsidian.md/) for note taking, and it also uses MathJax for it's (rendering?), and I figured maybe you all would be interesting in learning the (code?) for it to convert it into actual math symbols and such? 
 Here's some of the pretty basic things you'll want. 
 ```js
 (- "$" is to start and end a math statement
