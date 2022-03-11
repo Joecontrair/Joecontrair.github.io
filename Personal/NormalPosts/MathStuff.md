@@ -56,8 +56,6 @@ Here's some of the pretty basic things you'll want.
 - This is the end of a proof statement since I can't find any obsidian symbol for it ∎
 - ^ can be used to make something an expnential
 $4*4^2$
-- ∈ means something is an element of, same with ∎ cant find obsidian short cut so just copy pasted from google, such as 
-A∈$\mathbb{Z}$
 
 -'$$ $$' $$To-make-middle$$
 
@@ -79,6 +77,7 @@ V - or
 ^- (Universal set)
 ∀ - For all
 ∃ - There exist
+∎ - End proof
 ```
 ---
 Or it will all look like this:
