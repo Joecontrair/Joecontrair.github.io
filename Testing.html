@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+        <script>
+        window.MathJax = {
+        tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+        };
+        </script>
+    </head>
+    <body>
+        <p>
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+\[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+
+1. Even proof
+
+Proposition: Suppose a,b ∈ $Z$, If a and b are even, then ab is even. 
+
+Proof: Suppose a,b∈$Z$, by definition of even there exists integers K and Q such that a = 2K and b = 2Q. From this a*b = 2k*2Q which we can then simplify into 4KQ = 2(2KQ). Let M = 2KQ. Since $Z$ is closed under multiplication and 2,K,Q∈$Z$, 2KQ∈$Z$. Thus ab = 2M where 2M is an integer and so by definition, ab is even. ∎
+
+2. Divides
+
+Definition: Suppose that a,b∈$Z$. We say that b divides a, denoted b|a, when there exists an integer k such that a = bk. 
+
+Does 2|10? Yes 2|10 because 10 = 2*5. 
+Does 4|10? 4 does not divide 10 because if 10 = 4k then k = 2.5 /∈ $Z$
+
+Synonyms: 
+- b is a divisor of a
+- b is a factor of a
+- a is a multiple of b
+- $\frac a{b}$ is an integer. [k = $\frac a{b}$]
+
+3. Proofs
+
+Prove the following:
+
+Proposition: Suppose that a,b,c∈$Z$. If b|a and b|c then b|(a+c). 
+
+Proof: Suppose that a,b,c∈$Z$. By definition of divides there exists an integer k where a = bk and an integer k$_1$ where c = bk$_1$. So from this we get (a+c) = b(k+k$_1$). Since the integers are closed under addition k+k$_1$ must be an integer. Because of that by definition of divides b|(a+c). ∎
+
+
+Proposition: Suppose that x,y,z∈$Z$. If x|y and y|z, then x|z. 
+
+Proof: Suppose that x,y,z∈$Z$. By definition of divides there exists an integer g where y = xg and an integer f where z = yf. From this we can get z = xgf, simplifying it would get $\frac z{xg}$ = f. Because $\frac z{y}$ is an integer, $\frac x{zg}$ must be an integer. (Or Since $Z$ is closed under multiplication, $\frac x{zg}$∈$Z$). Therefore x|z. ∎
+
+- From this we can get z = xgf. Here I can actually just set z = x(gf) and then follow it with Since $Z$ is closed under multiplication x(gf)∈$Z$. Therefore x|z. ∎
+I just made it a little more complicated then needed. 
+          </p>
+
+    </body>
+</html>

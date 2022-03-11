@@ -8,7 +8,7 @@ Welcome to the Blog Page. Here I will hopefully have an index of Blogs or someth
 <!-- Comment -->
 # Posts
 Here I'll probably just have random posts and things that I'm testing out. 
-[Post 1](Pages/Post1.md)
+[Post 1](NormalPosts/Post1.md)
 
 # Math/proofs
 This is where I'll upload proofs and various puzzles that we've been working on in class<br/>
@@ -16,7 +16,7 @@ This is where I'll upload proofs and various puzzles that we've been working on 
 [Knights And Knaves](Pages/KnightsAndKnaves.md) <br/>
 [Simple odd proof](Pages/OddProof.md)<br/>
 [Various proofs](Pages/Several-proofs.md)<br/>
-[Division Algorithm](Pages/Division%20Algorithm.md)
+[Division Algorithm](Pages/DivisionAlgorithm.md)
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting
