@@ -30,7 +30,7 @@ So in your `<head></head>` you're gonna want to place
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 ```
 This will allow you to use LaTex formatting in your html/markdown files. Now if you wish to change the delimiters that it will use, like to the ones Obsidian uses ($ $), than you can place this: 
-    <code>
+ ```js
         <script>
             window.MathJax = {
             tex: {
@@ -38,7 +38,7 @@ This will allow you to use LaTex formatting in your html/markdown files. Now if 
             }
             };
         </script>
-    </code>
+```
 # Where
 So like I said before I've been doing some googling to try and add neat stuff to my website, and getting MathJax was one of those things. Because instead of having to upload a pdf of my proofs and such I can now just upload it directly into here. 
 [MathJax](https://www.mathjax.org/#gettingstarted) This here is the MathJax website where I found the actual code fot getting LaTex into my site.
@@ -59,7 +59,7 @@ $4*4^2$
 - ∈ means something is an element of, same with ∎ cant find obsidian short cut so just copy pasted from google, such as 
 A∈$\mathbb{Z}$
 
-- <u>$$To-make-middle$$</u>
+-'$$ $$' $$To-make-middle$$
 
 - #Fractions   \frac and then the thing you wish to be a fraction
 $$ \frac 4{2} $$
@@ -70,6 +70,7 @@ Practice:
 Log$_5$ 5 = 1
 lne$^2$ = 2
 
+Some math symbols
 ∈ - element of a set
 ⇒ - then
 ∧ - and 
