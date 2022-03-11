@@ -1,4 +1,10 @@
-
+---
+layout: Page
+---
+<html>
 <head>
-    <title>Cracked</title>
+<center>
+<H1>MathJax:</H1>
+</center>
 </head>
+</html>
