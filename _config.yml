@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
+body {
+  font-family: "Comic Sans MS";
+}
 title: Personal website
 markdown: kramdown
 logo: Personal/assets/Images/Joecool.png
