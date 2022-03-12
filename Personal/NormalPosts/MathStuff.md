@@ -105,4 +105,6 @@ Practice:
 Log$_5$ 5 = 1
 lne$^2$ = 2
 
-More detailed formatting for Obsidian/MathJax: [Obsidian-Formatting](https://help.obsidian.md/How+to/Format+your+notes)
+More detailed formatting for Obsidian/MathJax: [Obsidian-Formatting](https://help.obsidian.md/How+to/Format+your+notes)<br/>
+
+[back](../)
