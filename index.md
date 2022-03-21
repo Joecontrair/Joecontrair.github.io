@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1RD501NP1L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1RD501NP1L');
+</script>
+
 <button onClick="togglePlay()">tunes</button>
 # About Me:
 Hey, I'm Joe Daly here to give you Joe Daily. I'm a student enrolled at St Mary's College of Maryland studying Mathematics with a minor in both Philosophy and Business. I currently work 3 jobs on campus and hope to continue building up my Resume! As of last year I have taken up climbing and can now do up to V5s, and recently have started learning a little bit of computer science. <br/>
