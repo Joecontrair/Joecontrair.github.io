@@ -37,10 +37,8 @@ Suppose n∈$Z$, and n is odd. <br/>
 By definition of odd, there exists k∈$Z$ such that n=2k+1. If we square both sides we get $n^2=4k^2 + 4k +1$. The right side equals $2(2k^2+2k)+1$. Since $Z$ is closed under addition and mutliplication, $(2k^2+2k)∈Z$. Thus by definition, $n^2$ is odd. Therefore if $n^2$ is even, then n is even. ∎
 
 # Congruence
-___
 
 Definition: Suppose a,b,n$∈Z$. We say that a is congruent to b mod n, denoted a≅b(modn), when n|(a-b)
-___
 
 Examples where n=3: <br/>
 Is a ≅ b (mod3)?<br/>
