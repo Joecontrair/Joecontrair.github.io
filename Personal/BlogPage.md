@@ -18,6 +18,8 @@ This is where I'll upload proofs and various puzzles that we've been working on 
 [Simple odd proof](Pages/OddProof.md)<br/>
 [Various proofs](Pages/Several-proofs.md)<br/>
 [Division Algorithm](Pages/DivisionAlgorithm.md)<br/>
+[Congruence and Contrapositive](Personal/Pages/3-21-Class.md)<br/>
+
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting
