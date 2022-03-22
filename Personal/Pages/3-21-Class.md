@@ -13,7 +13,7 @@ layout: page
         };
         </script>
             <center>
-            <H1>Contrapapositive and Congruence!</H1>
+            <H1>Contrpositive and Congruence!</H1>
             <p>
             Some proofs we worked on in class! 
             </p>
@@ -74,4 +74,4 @@ n|(a+c)-(b+c) equals n|a-b, which means a≅b(modn). Therefore if a /≅ b(modn)
  a≅b(modn) = n|a-b. By definition of divides a-b = nf, where f$∈Z$. If you multipy both sides by c you get ac-bc = nfc. Let j =fc, Since $Z$ is closed under mutliplication j is an integer so ac-bc = nj. Which is n|ac-bc which is ac ≅bc(modn). Therefore If a≅b(modn), then ac ≅bc(modn).∎  <br/>
 
  [back](../BlogPage.md)
- 
+
