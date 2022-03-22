@@ -55,7 +55,7 @@ Is a ≅ b (mod3)?<br/>
 -4 ≅  2(mod3)? 3|-6 yes<br/>
 31 ≅ 13(mod3)? 3|18 yes<br/>
 10 ≅ -10(mod3)? 3|20 no<br/>
-___
+
 
 # Proofs From class
 Reminder- (Divides)Suppose that a,b∈$Z$. We say that b divides a, denoted b|a, when there exists an integer k such that a = bk. 
