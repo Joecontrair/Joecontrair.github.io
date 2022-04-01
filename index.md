@@ -22,7 +22,7 @@ This is gonna be a mix of neat websites and other posts I've found and some of t
 
 # Resume: 
 This is my General Resume, essentially a list of all previous job experience and relevant educational experiences. 
-[Resume](Personal/assets/Resume%20General%20Joe%20Daly.pdf)
+[Resume](Personal/assets/Resume%20General%20Joe%20Daly.pdf)<br/>
 I also have a [Professional website](Joe'sResumePage/JoesResume.html) that has my resume and some references! 
 
 # The pals
