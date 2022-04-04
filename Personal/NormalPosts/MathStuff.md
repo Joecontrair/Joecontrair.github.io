@@ -22,7 +22,7 @@ layout: Page
 </html>
 
 # Why
-So as one does with any coding or whatever HTMl and markdown counts as, you learn it by taking half of your code and such from google. I think it's called Code Monkeying, so that's pretty neat. 
+MathJax allows you to use Latex formatting in your HTML/Markdown files. Maybe you want to make a math post or somethin. Thats what I've been using it for. 
 # How
 So in your `<head></head>` you're gonna want to place 
 ```js 
