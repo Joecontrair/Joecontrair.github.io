@@ -21,11 +21,15 @@ So These are a couple proofs we did for a homework the other day. A couple of th
 # Without my answers
 1. Prove that if x is an odd integer, then $x^3$ is odd.
 
+
 2. Suppose a∈$Z$. Prove that if $a^2|a$, then a ∈ {-1,0,1}. (Hint. You might find it helpful to use cases.)
+
 
 3. Let x and y be real numbers, and suppose that x is rational. Prove that if xy is irrational, then y is irrational. 
 
+
 4. Suppose that $a,b,c∈Z$. Prove that if a does not divide bc, then a does not divide b and a does not divide c.
+
 
 5. Prove that every odd integer is the difference of 2 perfect squares. 
 (Hint. Start by playing around with other examples. Do you notice any patterns in which squares you can use for a particular odd number? If you can find a simple pattern, then you can build your proof strategy from it.)
