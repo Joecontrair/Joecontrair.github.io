@@ -22,24 +22,26 @@ So These are a couple proofs we did for a homework the other day. A couple of th
 1. Prove that if x is an odd integer, then $x^3$ is odd.
 
 
-2. Suppose a∈$Z$. Prove that if $a^2|a$, then a ∈ {-1,0,1}. (Hint. You might find it helpful to use cases.)
+2. Suppose a∈$Z$. </br> Prove that if $a^2|a$, then a ∈ {-1,0,1}. (Hint. You might find it helpful to use cases.)
 
 
-3. Let x and y be real numbers, and suppose that x is rational. Prove that if xy is irrational, then y is irrational. 
+3. Let x and y be real numbers, and suppose that x is rational. </br>
+Prove that if xy is irrational, then y is irrational. 
 
 
-4. Suppose that $a,b,c∈Z$. Prove that if a does not divide bc, then a does not divide b and a does not divide c.
+4. Suppose that $a,b,c∈Z$. </br>
+Prove that if a does not divide bc, then a does not divide b and a does not divide c.
 
 
-5. Prove that every odd integer is the difference of 2 perfect squares. 
+5. Prove that every odd integer is the difference of 2 perfect squares. </br>
 (Hint. Start by playing around with other examples. Do you notice any patterns in which squares you can use for a particular odd number? If you can find a simple pattern, then you can build your proof strategy from it.)
-(Ex. she gave us was $7=$4^2 - 3^2$)
+(Ex. she gave us was $7=4^2 - 3^2$)
 
 # My answers
 A solid 3 of these I'm quite confident on but 2 and 5 I think I'm missing a couple steps maybe?
 
 1. Prove that if x is an odd integer, then $x^3$ is odd. </br>
-Suppose x∈$Z$ that is odd, then there exists $k∈Z$ such that $x= 2k+1$. If we cube each side then we get $x^3=8k^3 + 12k^2 + 6k +1$. The right side of this equation equals $2(4k^3 + 6k^2 +3k) + 1$. Let b = $4k^3 + 6k^2 +3k$. Since $Z$ is closed under addition and multiplication, $b∈Z$. So $x^3=2b+1$ Thus by definition $n^3$ is odd. ∎
+Suppose $x∈Z$ that is odd, then there exists $k∈Z$ such that $x= 2k+1$. If we cube each side then we get $x^3=8k^3 + 12k^2 + 6k +1$. The right side of this equation equals $2(4k^3 + 6k^2 +3k) + 1$. Let b = $4k^3 + 6k^2 +3k$. Since $Z$ is closed under addition and multiplication, $b∈Z$. So $x^3=2b+1$ Thus by definition $n^3$ is odd. ∎
 
 
 2. Suppose $a∈Z$. Prove that if $a^2|a$, then a ∈ {-1,0,1}. (Hint. You might find it helpful to use cases.)
