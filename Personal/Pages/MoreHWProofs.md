@@ -15,11 +15,11 @@ More Proofs!
         </script>
 </head>
 
-# Mess ups
-So I realize that I made some mistakes when uploading all of this, I guess I messed up the synatx or something, so if anyone actually reads through this I apologize for this mistakes! Also still haven't gotten the grade back so if ya see the mistakes feel free to reach out and let me know!
-
 # Start
 So These are a couple proofs we did for a homework the other day. A couple of them were rough and I just couldn't grasp what to do for a while, so I'm still not sure if I got them or not haha but I guess we'll see when I get the grades back.
+
+# Mess ups
+So I realized that these fuckers '|' cause the boxes or whatever in markdown so when I orignially uploaded this I never checked it and everything was illegible lmao. SO ya know if you were interested and actually following my math blog sorry for any mistakes! Also as said before I haven't gotten the grade back but if you notice any clear mistakes or something in my proofs feel free to reach out and let me know!
 
 # Without my answers
 Prove that if x is an odd integer, then $x^3$ is odd.
