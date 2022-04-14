@@ -19,7 +19,7 @@ More Proofs!
 So I realize that I made some mistakes when uploading all of this, I guess I messed up the synatx or something, so if anyone actually reads through this I apologize for this mistakes! Also still haven't gotten the grade back so if ya see the mistakes feel free to reach out and let me know!
 
 # Start
-So These are a couple proofs we did for a homework the other day. A couple of them were rough and I just oculdn't grasp what to do for a while, so I'm still not sure if I got them or not haha but I guess we'll see when I get the grades back.
+So These are a couple proofs we did for a homework the other day. A couple of them were rough and I just couldn't grasp what to do for a while, so I'm still not sure if I got them or not haha but I guess we'll see when I get the grades back.
 
 # Without my answers
 Prove that if x is an odd integer, then $x^3$ is odd.
@@ -56,7 +56,9 @@ Proof by contrapositive: Let x and y be real numbers, and suppose that x is rati
 
 Suppose that $a,b,c∈Z$. Prove that if a does not divide bc, then a does not divide b and a does not divide c. 
 Proof by contrapositive: Suppose $a,b,c∈Z$.We are trying to show that  if a|b V a|c, then a|bc. 
+</br>
 -Case 1: Suppose a|b. By definition of divides, a|b is equivalent to b = ak, where $k∈Z$. If you multiply both sides by c you get bc=akc. Let kc=m, since $Z$ is closed under multiplication, $m∈Z$. So bc=am, therefore a|bc
+</br>
 -Case 2: Suppose a|c. By definition of divides, a|c is equivalent to c = ag, where $g∈Z$. If you multiply both sides by b you get bc=agb. Let gb=x, since $Z$ is closed under multiplication, $g∈Z$. So bc=ax.
 Therefore a|bc. ∎
 
