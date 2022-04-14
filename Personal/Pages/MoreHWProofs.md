@@ -34,7 +34,7 @@ So These are a couple proofs we did for a homework the other day. A couple of th
 # My answers
 A solid 3 of these I'm quite confident on but 2 and 5 I think I'm missing a couple steps maybe?
 
-1. Prove that if x is an odd integer, then $x^3$ is odd. 
+1. Prove that if x is an odd integer, then $x^3$ is odd. </br>
 Suppose x∈$Z$ that is odd, then there exists k∈$Z$ such that x= 2k+1. If we cube each side then we get $x^3=8k^3 + 12k^2 + 6k +1$. The right side of this equation equals $2(4k^3 + 6k^2 +3k) + 1$. Let b = $4k^3 + 6k^2 +3k$. Since $Z$ is closed under addition and multiplication, $b∈Z$. So $x^3=2b+1$ Thus by definition $n^3$ is odd. ∎
 
 2. Suppose a∈$Z$. Prove that if $a^2|a$, then a ∈ {-1,0,1}. (Hint. You might find it helpful to use cases.)
