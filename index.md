@@ -14,14 +14,14 @@ layout: default
 
 <button onClick="togglePlay()">tunes</button>
 # About Me:
-Hey, I'm Joe Daly here to give you Joe Daily. I'm a student enrolled at St Mary's College of Maryland studying Mathematics with a minor in Business. Outside of education I work at the [Hawk Studios](https://www.instagram.com/smcm_hawkstudio/), SMCMs podcast studio. I also am the president of the Ping pong club and started climbing at our wall freshman year!<br/>
+Hey, I'm Joe Daly here to give you Joe Daily. I'm a student at St Mary's College of Maryland studying Mathematics with a minor in Business. Outside of education I work at the [Hawk Studios](https://www.instagram.com/smcm_hawkstudio/), SMCMs podcast studio. I also am the president of the Ping pong club and started climbing at our wall freshman year!<br/>
 ![Me](Personal/assets/Images/Joe%2BStan.jpg)<br/>
 
 # Blog: 
-This is gonna be a mix of neat websites and other posts I've found and some of the current Proofs I've been working on in Foundations of Mathematics. [Blog](Personal/BlogPage.md)
+This is gonna be a mix of neat websites and other posts I've found and some old Proofs I've worked on in Foundations of Mathematics. [Blog](Personal/BlogPage.md)
 
 # Resume: 
-This is my General Resume, essentially a list of all previous job experience and relevant educational experiences. 
+This is my General Resume:
 [Resume](Personal/assets/Resume%20General%20Joe%20Daly.pdf)<br/>
 I also have a [Professional website](Joe'sResumePage/JoesResume.html) that has my resume and some references! 
 
