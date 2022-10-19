@@ -24,13 +24,10 @@ This is gonna be a mix of neat websites and other posts I've found and some old 
 This is my General Resume:
 [Resume](Personal/assets/Resume%20General%20Joe%20Daly.pdf)<br/>
 I also have a [Professional website](Joe'sResumePage/JoesResume.html) that has my resume and some references! 
+<br/>
 
-# The pals
-Felt like making a page for ma roomie so I did. [Roomie](Personal/Roomie.md)<br/>
-Some of my other buds too!: <br/>
-[Keppler](Personal/Keppler.md)<br/>
-
-[Forrest](Personal/Forrest.html)
+# Dumb Stuff
+[Here's](Personal\SamAl.html) some old dumb sites and other stuff I've worked on
 
 <audio id="myAudio" src="Personal\assets\Audio\Saint Pepsi - Enjoy yourself.mp3" type="Audio/mp3" preload="auto">
 </audio>

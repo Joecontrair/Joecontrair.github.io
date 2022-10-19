@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=0.5">
+    <title>Joes Personal</title>
+ <!--<audio id="myAudio" autoplay loop>
+        <source src="audio/music.mp3" type="audio/mp3" />
+    </audio>-->
+
+    <audio id="myAudio" src="Assets/Audio/music.mp3" type="Audio/mp3" preload="auto">
+    </audio>
+    
+    <audio id="myAudio2" src="Assets/Audio/Saint Pepsi - Enjoy yourself.mp3" type="Audio/mp3" preload="auto">
+    </audio>
+
+    <script>
+
+        var myAudio = document.getElementById("myAudio");
+        var isPlaying = false;
+
+        function togglePlay() {
+        isPlaying ? myAudio.pause() : myAudio.play();
+        };
+
+        myAudio.onplaying = function() {
+        isPlaying = true;
+        };
+        myAudio.onpause = function() {
+        isPlaying = false;
+        };
+
+
+
+        var myAudio2 = document.getElementById("myAudio2");
+        var isPlaying = false;
+
+        function togglePlay2() {
+        isPlaying ? myAudio2.pause() : myAudio2.play();
+        };
+
+        myAudio2.onplaying = function() {
+        isPlaying = true;
+        };
+        myAudio2.onpause = function() {
+        isPlaying = false;
+        };
+
+    </script>
+    
+</head>
+<body>
+    <body style="background-color:#FF0000;"></body>
+    <center>
+        <h1>Joe cool</h1> <br/>
+        <img src="Assets/Images/Joecool.png"> 
+           <!--<button type="button" onClick="playMyAudio()">Play Music</button>
+        <button type="button" onClick="pauseAudio()">Pause Music</button>-->
+        
+        <button onClick="togglePlay()">music</button>
+        <button onClick="togglePlay2()">St Pepsi</button>
+    </center>
+    <p>Applebees</p>
+    <marquee direction="right"><img src="Assets/Images/SamAl.jpg"><img src="Assets/Images/Da Pickle1.png"></marquee> 
+
+</body>
+</html>
