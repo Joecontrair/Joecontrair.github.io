@@ -22,7 +22,7 @@ This is gonna be a mix of neat websites and other posts I've found and some old 
 
 # Resume: 
 This is my General Resume:
-[Resume](Personal/assets/Resume%20General%20Joe%20Daly.pdf)<br/>
+[Resume](Personal/assets/Resume%20General%20Joe%20Daly-2.pdf)<br/>
 I also have a [Professional website](Joe'sResumePage/JoesResume.html) that has my resume and some references! 
 <br/>
 

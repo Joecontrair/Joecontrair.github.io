@@ -71,3 +71,5 @@ Prove that every odd integer is the difference of 2 perfect squares.
 $(.5x+.5)(.5x+.5)=.25x^2+.25x+.25x+.25$ -
 $(.5x-.5)(.5x-.5)=.25x^2-.25x-.25x+.25$
 = x
+
+[back](../BlogPage.md)
