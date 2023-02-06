@@ -35,6 +35,7 @@ My professor has her own website actually! Shes got some neat artwork and some f
 My Buddy forrest has their own punk rock band based in central cali so if that's your style or are just looking for a new genre to get into definitely give amphibiology a look. [Amphibiology](https://linktr.ee/altfrogband)<br/>
 <br/>
 I found this person on math twitter and checked out her website, she has some neat papers and a github with some fun math bots so check it out if you're interested I suppose! [Light Ediand](https://www.ediand.xyz/)<br/>
+<br/>
 My other bud Drake has been making some neat Vaporwave stuff? Or thats what they call it atleast haha. I'm a fan, heres one of their older ones and they used to upload some of it to twitter, feel free to check it out if ya like it. 
 
 ![Drakowave](https://pbs.twimg.com/media/FMTRvuOWUAcA4U4?format=jpg&name=medium)
