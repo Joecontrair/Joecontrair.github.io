@@ -23,6 +23,7 @@ This is where I'll upload proofs and various puzzles that we've been working on 
 [Some more proofs](Pages/MoreHWProofs.md)<br/>
 ## New math proofs and such
 I haven't uploaded in forever and decided to start back up because I'm taking a really interesting number theory course
+[Day 7 or something idk](NumberTheoryStuffs/Class7.md)
 
 
 # Interesting things
