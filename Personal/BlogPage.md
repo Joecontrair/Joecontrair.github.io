@@ -21,7 +21,8 @@ This is where I'll upload proofs and various puzzles that we've been working on 
 [Division Algorithm](Pages/DivisionAlgorithm.md)<br/>
 [Congruence and Contrapositive](Pages/3-21-Class.md)<br/>
 [Some more proofs](Pages/MoreHWProofs.md)<br/>
-
+## New math proofs and such
+I haven't uploaded in forever and decided to start back up because I'm taking a really interesting number theory course
 
 
 # Interesting things
@@ -33,7 +34,8 @@ My professor has her own website actually! Shes got some neat artwork and some f
 <br/>
 My Buddy forrest has their own punk rock band based in central cali so if that's your style or are just looking for a new genre to get into definitely give amphibiology a look. [Amphibiology](https://linktr.ee/altfrogband)<br/>
 <br/>
-My other bud Drake has been making some neat Vaporwave stuff? Or thats what they call it atleast haha. I'm a fan, heres one of their older ones and used to upload some of it to twitter, feel free to check it out if ya like it. 
+I found this person on math twitter and checked out her website, she has some neat papers and a github with some fun math bots so check it out if you're interested I suppose! [Light Ediand](https://www.ediand.xyz/)<br/>
+My other bud Drake has been making some neat Vaporwave stuff? Or thats what they call it atleast haha. I'm a fan, heres one of their older ones and they used to upload some of it to twitter, feel free to check it out if ya like it. 
 
 ![Drakowave](https://pbs.twimg.com/media/FMTRvuOWUAcA4U4?format=jpg&name=medium)
 
