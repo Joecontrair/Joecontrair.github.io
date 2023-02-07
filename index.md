@@ -13,8 +13,11 @@ layout: default
 </script>
 
 <button onClick="togglePlay()">tunes</button>
+
 # About Me:
-Hey, I'm Joe Daly here to give you Joe Daily. I'm a student at St Mary's College of Maryland studying Mathematics with a minor in Business. Outside of education I work at the [Hawk Studios](https://www.instagram.com/smcm_hawkstudio/), SMCMs podcast studio. I also am the president of the Ping pong club and started climbing at our wall freshman year!<br/>
+Hey, I'm Joe Daly here to give you Joe Daily. I'm a student at St Mary's College of Maryland studying Mathematics. Outside of education I work at the [Hawk Studios](https://www.instagram.com/smcm_hawkstudio/), SMCMs podcast studio. I also am the president of the Ping pong club and started climbing at our wall freshman year!<br/>
+
+Here's me (on the right and my buddy Ex somewhere in Solomons Island)!<br/>
 ![Me](Personal/assets/Images/MeAndEx.jpg)<br/>
 
 # Blog: 
@@ -26,8 +29,9 @@ This is my General Resume:
 I also have a [Professional website](Joe'sResumePage/JoesResume.html) that has my resume and some references! 
 <br/>
 
-# Dumb Stuff
-[Here's](Personal/SamAl.html) some old dumb sites and other stuff I've worked on
+# Silly stuff
+[Here's](Personal/SamAl.html) the first site I made when messing around with HTML<br/>
+[My buddy](Personal/Forrest.html)
 
 <audio id="myAudio" src="Personal\assets\Audio\Saint Pepsi - Enjoy yourself.mp3" type="Audio/mp3" preload="auto">
 </audio>

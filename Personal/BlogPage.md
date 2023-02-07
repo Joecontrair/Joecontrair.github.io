@@ -12,8 +12,8 @@ Here I'll probably just have random posts and things that I'm testing out.
 [MathJax](NormalPosts/MathStuff.md)<br/>
 [Linux-Vs-Windows](NormalPosts/LinuxVsWindows.md)<br/>
 
-# Math/proofs
-This is where I'll upload proofs and various puzzles that we've been working on in class<br/>
+# FOM stuff I did
+Old rpoofs and puzzles we did in my FOM course last year. <br/>
 [Negations](Pages/FOMproof.md)<br/>
 [Knights And Knaves](Pages/KnightsAndKnaves.md) <br/>
 [Simple odd proof](Pages/OddProof.md)<br/>
@@ -21,15 +21,14 @@ This is where I'll upload proofs and various puzzles that we've been working on 
 [Division Algorithm](Pages/DivisionAlgorithm.md)<br/>
 [Congruence and Contrapositive](Pages/3-21-Class.md)<br/>
 [Some more proofs](Pages/MoreHWProofs.md)<br/>
-## New math proofs and such
-I haven't uploaded in forever and decided to start back up because I'm taking a really interesting number theory course
-[Day 7 or something idk](NumberTheoryStuffs/Class7.md)
+## Newer Number theory stuff
+I'm taking a tnumber theory course and I figured I'd do what I did with FOM and upload some proofs and stuff that we worked on <br/>
 
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting
 <br/>
-My professor has her own website actually! Shes got some neat artwork and some fun things of her own going on! <br/>
+On of my professors has her own website! Shes got some neat artwork and some fun things of her own going on! <br/>
 
 [My Professors Website](http://faculty.smcm.edu/sgoldstine/) <br/>
 <br/>
