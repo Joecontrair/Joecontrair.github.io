@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Welcome to the Daly
-Welcome to the Blog Page. Here I will hopefully have an index of Blogs or something? Definitely going to upload things I've been learning in FOM such as proofs and other interesting puzzles we've been working on. 
+Welcome to the Blog Page. Here I will hopefully have an index of Blogs or something? Definitely going to upload things I've been learning and working on in my Math courses, maybe some normal blog stuff too!
 
 <!-- Comment -->
 # Posts
@@ -13,7 +13,7 @@ Here I'll probably just have random posts and things that I'm testing out.
 [Linux-Vs-Windows](NormalPosts/LinuxVsWindows.md)<br/>
 
 # FOM stuff I did
-Old rpoofs and puzzles we did in my FOM course last year. <br/>
+Old proofs and puzzles we did in my FOM course last year. <br/>
 [Negations](Pages/FOMproof.md)<br/>
 [Knights And Knaves](Pages/KnightsAndKnaves.md) <br/>
 [Simple odd proof](Pages/OddProof.md)<br/>
@@ -22,8 +22,7 @@ Old rpoofs and puzzles we did in my FOM course last year. <br/>
 [Congruence and Contrapositive](Pages/3-21-Class.md)<br/>
 [Some more proofs](Pages/MoreHWProofs.md)<br/>
 ## Newer Number theory stuff
-I'm taking a tnumber theory course and I figured I'd do what I did with FOM and upload some proofs and stuff that we worked on <br/>
-
+I'm taking a number theory course and I figured I'd do what I did with FOM and upload some proofs and stuff that we worked on <br/>
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting

@@ -21,7 +21,7 @@ Here's me (on the right and my buddy Ex somewhere in Solomons Island)!<br/>
 ![Me](Personal/assets/Images/MeAndEx.jpg)<br/>
 
 # Blog: 
-This is gonna be a mix of neat websites and other posts I've found and some old Proofs I've worked on in Foundations of Mathematics. [Blog](Personal/BlogPage.md)
+This is gonna be a mix of neat websites and other posts I've found and some old Proofs I've worked on in Foundations of Mathematics(Intro to proofs course) plus some new stuff I'md doing in my current number theory course. [Blog](Personal/BlogPage.md)
 
 # Resume: 
 This is my General Resume:
