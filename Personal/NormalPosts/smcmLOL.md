@@ -27,7 +27,7 @@ Okay for one sorry that this is such a hectic thing to read lol. I was about hal
 
 ## Green Door
 Green door is the one bar very close to the college (I think there's another bar in leonardtown but that's pretty far) and a lot of the strudents here have some pretty mixed opinions of it. I have gone twice now and I'm a fan lol. First time I went on a monday when there were like 5 townies total in the bar and maybe another group of students I've recognized, me and beau shot the shit and got the Pitcher and a Pizza deal they had goin on. twas worth but also I would not reccomend going on a monday normally, it's prtty depressing lol. I got to go yesterday, a thursday, and that was pretty hype, lots of people, townies and students, and Pint night was an alright deal I think and I did some shots with ma peeps (Though I'm mad cause I bought like 2 rounds os shots, once to do it with ma peeps and the other partially cause I was simpin a lil). Anyway, tis a great time and I personally appreciate the door. But I was reading SMCMLOL and came upon a post hyping up the green door and he shared an old image of it and my god it looks like a shit hole. It still does don't get me wrong but jesus it was trash whenevert that photo was taken. <br/>
-Old Green Door:<br/>
+Old Green Door:
 
 ![Old Green Door](http://25.media.tumblr.com/tumblr_mb8q9ygJb91qzztrio1_500.jpg)
 <br/>
@@ -71,7 +71,8 @@ Ken also had a clear understanding of the eonomic benefits of this lovely drink
 
 ## SMCM Oral Tradition 
 In May of 2010 Ken Benjes makes a post titled ["SMCM-oral-traditions"](http://smcmlol.blogspot.com/2010/05/smcm-oral-tradition.html) and asks his readers to post some stories they've heard around campus. I went into this one kind of excited because freshman year I came to this college with a bunch of stories from my roomates sister who was going here at the time, (side note me and [Hayden](../Roomie.md) still goin strong as roomies, year three now bb), alot of which were related to how disgusting Dorchester hall, the all boys dorm, was. One was her freshman year I think a helicopter had to be called in because PS, public safety, was chasing someone who I guess was pretty trashed and he ran into the bathroom on the second floot and locked it. And I guess Didn't realise how high up he was because he jumped out and broke his leg. There were also stories of this one dude going to the the gender neutral bathrooms and absolutely nuking it for the next hour. I'm sure there were actual other ones that were funnier but I can't remember any right now, maybe I'll ask Hayden later and edit this or reach out to his sister and see if she remembers any good ones from her freshman year. Okay well point is I went into this post excited to hear some other ones but most of the comments were about this person hanging themself or some other jumping off a bridge. It was kind of depressing. There was one about how in the 70s all the jazz kids on their trip to some college were smoking on the bus and the conductor only told them to stop whenever they got to a toll booth which was pretty funny I spose. Oh Another story I heard my freshman year was that Michael Dunn, previously the head of title 9 and now the head of the Core P program (I fucking hate the core P shit), was doing a wrap in one of the dorms and got on top of a table and half way through it broke and he fell. </br>
-Edit:</br>
+Edit:
+<br/>
 I actually completely forgot about this one but then I continued reading his other posts (There's so god damn may and I'm only in 2010 out of the 13 years he's been posting). So I worked Saferide for a while and over the summer I was asked t ocome down for Alumni weekend to drive people back and forth from the green door and alot of the Alumni were really nice and funny (and tipped well), sorry I was remembering it and it really was a great 3 days I spent working it. Anyway one of the guys talked about how there were riots on the greens at some point and a bunch of the Lax bros used their LAcrosse sticks to throw tear gas(or whatever shit cops were throwing at them) back at the cops, so pretty based of the Lax bros. </br>
 If you're an SMCM broski reading this please reach out to me and let me know if you had any good stories or traditions you heard about throughout your time at SMCM!
 
@@ -83,10 +84,12 @@ Old Picture of the Shoe tree:
 ![Shoe tree](http://smcmchangingtides.weebly.com/uploads/3/0/9/7/30978643/2447930.jpg)
 Here's a pic of me and my uncle in front of it:
 ![Me And Uncle Tim](../assets/Images/Shoetree.png)
-Edit: </br>
+Edit: 
+</br>
 So when googlin the images I found a site talking about it a lil more. I guess it was a way for graduating seniors to leave a part of themselves behind on campus by throwing their shoes up there. Here's a lil [website](https://smcmchangingtides.weebly.com/preface.html) talking about some neat stuff around campus/where I found the [shoe tree](https://smcmchangingtides.weebly.com/the-shoe-tree.html) info (If you click on the photos it sends you to another page talking about it) </br>
 
-Edit 2: </br>
+Edit 2: 
+</br>
 
 I [found](http://smcmlol.blogspot.com/2014/06/history-of-shoe-tree.html) another post on Blogspot talking about the history of the shoe tree, he actually goes in depth with it which is nice. The link he has to this girls smp which was investigating the history of it doesn't work anymore sadly and I don't really feel like finding it myself, I can ask Beau later cause I vaguely remember him finding information on this himself. </br>
 Just read through his version of the shoe tree lore, he left some very vague descriptions but still I appreciated a little bit more lore of it and one the comments on the post was neat so still def check it out. 
