@@ -12,6 +12,7 @@ Here I'll probably just have random posts and things that I'm testing out.
 [MathJax](NormalPosts/MathStuff.md)<br/>
 [Linux-Vs-Windows](NormalPosts/LinuxVsWindows.md)<br/>
 [Tired](NormalPosts/tired.md)<br/>
+[SMCM-LOl]
 
 # FOM stuff I did
 Old proofs and puzzles we did in my FOM course last year. <br/>
