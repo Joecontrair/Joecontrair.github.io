@@ -1,6 +1,8 @@
-<center><h1>Review of SMCM LOL </h1> </br>
+<center>
+<h1>Review of SMCM LOL </h1>
 <h2>"A 'student' blog about St Mary's Collge of Maryland</h2>
-<br/>
+</center>
+
 Dates I worked on this:<br/>
 2/22/2023<br/>
 2/23/2023<br/>
