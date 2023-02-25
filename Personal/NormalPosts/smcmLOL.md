@@ -109,5 +109,6 @@ I think I mentioned it somewhere earlier in the post but I rarely see nothing bu
 SMCM MINECRAFT!!!! Someone made the campus center in minecrafter apparently! [Pretty Cool](http://smcmlol.blogspot.com/2014/09/smcm-in-minecraft.html)</br>
 
 
-[back](../)
+[back](../BlogPage.md)
+
 
