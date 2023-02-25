@@ -1,6 +1,6 @@
 <center>
 <h1>Review of SMCM LOL </h1>
-<h2>"A 'student' blog about St Mary's Collge of Maryland</h2>
+<h2>"A 'student' blog about St Mary's Collge of Maryland"</h2>
 </center>
 
 Dates I worked on this:<br/>
