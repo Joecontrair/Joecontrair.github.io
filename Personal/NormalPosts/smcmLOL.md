@@ -88,8 +88,9 @@ Edit:
 </br>
 So when googlin the images I found a site talking about it a lil more. I guess it was a way for graduating seniors to leave a part of themselves behind on campus by throwing their shoes up there. Here's a lil [website](https://smcmchangingtides.weebly.com/preface.html) talking about some neat stuff around campus/where I found the [shoe tree](https://smcmchangingtides.weebly.com/the-shoe-tree.html) info (If you click on the photos it sends you to another page talking about it) </br>
 
+
 Edit 2: 
-</br>
+
 
 I [found](http://smcmlol.blogspot.com/2014/06/history-of-shoe-tree.html) another post on Blogspot talking about the history of the shoe tree, he actually goes in depth with it which is nice. The link he has to this girls smp which was investigating the history of it doesn't work anymore sadly and I don't really feel like finding it myself, I can ask Beau later cause I vaguely remember him finding information on this himself. </br>
 Just read through his version of the shoe tree lore, he left some very vague descriptions but still I appreciated a little bit more lore of it and one the comments on the post was neat so still def check it out. 
