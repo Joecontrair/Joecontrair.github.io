@@ -13,6 +13,8 @@ layout: default
 
 <button onClick="togglePlay()">tunes</button>
 
+<link href="https://fonts.cdnfonts.com/css/comic-sans" rel="stylesheet">
+                
 # About Me:
 Hey, I'm Joe Daly here to give you Joe Daily. I'm a student at St Mary's College of Maryland studying Mathematics. Outside of education I work at the [Hawk Studios](https://www.instagram.com/smcm_hawkstudio/), SMCMs podcast studio. I also am the president of the Ping pong club and started climbing at our wall freshman year!<br/>
 
