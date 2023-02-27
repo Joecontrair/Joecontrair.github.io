@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-
-<head>
-
-  <link href="https://fonts.cdnfonts.com/css/comic-sans" rel="stylesheet">
-
-<head>
-
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1RD501NP1L"></script>
 <script>
