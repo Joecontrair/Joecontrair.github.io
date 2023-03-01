@@ -6,8 +6,7 @@ font-family: “Comic Sans MS”, “Comic Sans”, monospace;
 
 <p {.comicsans}> It lies </p>
 
-<p {.comicsans}
->
+<p {.comicsans}>
 
 Or maybe I'm doing it wrong?
 
