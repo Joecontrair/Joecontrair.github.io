@@ -76,12 +76,12 @@ If you're an SMCM broski reading this please reach out to me and let me know if 
 Not really an oral tradtion but one of our classic St Marys traditions is the Shoe tree. My understanding is that it started out as someones SMP or Art project in the 80s I think, and it sort of evolved in to a couple different things. It started out as when you did something for the first time on campus you are supposed to throw a pair of shoes up onto its branches. I think it also was at some point you were supposed to throw a pair up there for luck (that was the tour guide answer I got when I first toured the college lol) but it has evolved and seems like the traditions got mixed and is now supposed to be the first time you [get lucky](https://www.urbandictionary.com/define.php?term=get%20lucky) on campus you and the other person go the the shoe tree and throw a pair of shoes up onto one of the branches. I purposely brought home an old pair of shoes sitting around in my closet when I came back from break cause I sure as hell wasn't going to lose my only other nice pair of shoes. I remember it took my roomate like 30 fucking tries to get his god damn pair up there, I'm sure the Dorch 1st left basement residents loved us yelling at him at 2am. <br/>
 Also Also, I started talking about the shoe tree because one in of his posts Ken said that a branch of the shoe tree fell and that's just such an L. Apparently some hero was throwing peoples shoes back up there. Where's the memorial for that guy. 
 Old Picture of the Shoe tree:
-![Shoe tree](http://smcmchangingtides.weebly.com/uploads/3/0/9/7/30978643/2447930.jpg)
+![Shoe tree](http://smcmchangingtides.weebly.com/uploads/3/0/9/7/30978643/2447930.jpg)<br/>
 Here's a pic of me and my uncle in front of it:
 ![Me And Uncle Tim](../assets/Images/Shoetree.png)
 Edit: <br/>
 
-So when googlin the images I found a site talking about it a lil more. I guess it was a way for graduating seniors to leave a part of themselves behind on campus by throwing their shoes up there. Here's a lil [website](https://smcmchangingtides.weebly.com/preface.html) talking about some neat stuff around campus/where I found the [shoe tree](https://smcmchangingtides.weebly.com/the-shoe-tree.html) info (If you click on the photos it sends you to another page talking about it) </br>
+So when googlin the images I found a site talking about it a lil more. I guess it was a way for graduating seniors to leave a part of themselves behind on campus by throwing their shoes up there. Here's a lil [website](https://smcmchangingtides.weebly.com/preface.html) talking about some neat stuff around campus/where I found the [shoe tree](https://smcmchangingtides.weebly.com/the-shoe-tree.html) info (If you click on the photos it sends you to another page talking about it) <br/>
 
 
 Edit 2: 
@@ -96,17 +96,17 @@ The JURGO PUMPKIN! Joe Urgo was the president of St Marys for a while, 2010 to 2
 
 ![Jurgo Pumpkin](../assets/Images/JurgoPumpkin.png)
 
-Apparently his birthday is on January 30th, making him an Aquarius! Aquarius Joes rise up.</br>
+Apparently his birthday is on January 30th, making him an Aquarius! Aquarius Joes rise up.
 Seems like Ken was a Point news Competitor lol, very based though the Point news has outlived his Blog site so maybe they won... Don't worry Ken I will avenge you when I create the Daly News podcast
-[SMCM LOL vs the Point News](http://smcmlol.blogspot.com/2011/03/smcm-lol-vs-point-news.html)</br>
+[SMCM LOL vs the Point News](http://smcmlol.blogspot.com/2011/03/smcm-lol-vs-point-news.html)
 
 Campus Pub Opened in 2011 apparently, I never knew. The Alcohol aspect never survived though, we don't have it anymore D= . It's also kind of sad because he made it seem like the whole point was for professors to come in and eat and drink with students but I know that really doesn't happen ever (atleast not in the 3 years that i've been here) which is sad. 
-Apparently Benje found a [Glass Rickies Bottle](http://smcmlol.blogspot.com/2011/12/glass-rikki-genuine-glass.html), I dont believe it but he took the shittiest photo of it so who knows. Anyway one of the comments was an absolute banger. "A gold plated turd is still a turd"</br>
+Apparently Benje found a [Glass Rickies Bottle](http://smcmlol.blogspot.com/2011/12/glass-rikki-genuine-glass.html), I dont believe it but he took the shittiest photo of it so who knows. Anyway one of the comments was an absolute banger. "A gold plated turd is still a turd"
 
-A pretty popular Slogan on Campus is Keep St Marys weird, and I guess it got started around 2013? Anyway Tom seahawk is a hater and has made 2 posts (so far as I've read) about not liking it and I think they're just a hater. Also is the Tom Seahawk account ran by two people now? Or is it still Just Ken?</br>
+A pretty popular Slogan on Campus is Keep St Marys weird, and I guess it got started around 2013? Anyway Tom seahawk is a hater and has made 2 posts (so far as I've read) about not liking it and I think they're just a hater. Also is the Tom Seahawk account ran by two people now? Or is it still Just Ken?
 
 I think I mentioned it somewhere earlier in the post but I rarely see nothing but hate for Baltimore and it's nice to see Ken giving it some love in this [post](http://smcmlol.blogspot.com/2014/07/baltimore.html)</br>
-SMCM MINECRAFT!!!! Someone made the campus center in minecrafter apparently! [Pretty Cool](http://smcmlol.blogspot.com/2014/09/smcm-in-minecraft.html)</br>
+SMCM MINECRAFT!!!! Someone made the campus center in minecrafter apparently! [Pretty Cool](http://smcmlol.blogspot.com/2014/09/smcm-in-minecraft.html). 
 
 
 [back](../BlogPage.md)
