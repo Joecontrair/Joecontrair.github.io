@@ -17,7 +17,7 @@ font-family: comic-sans
 <link href="https://fonts.cdnfonts.com/css/comic-sans" rel="stylesheet">
 
 # <span style="font-family:comic-sans">About Me:</span>
-Hey, I'm Joe Daly here to give you Joe Daily. I'm a student at St Mary's College of Maryland studying Mathematics. Outside of education I work at the [Hawk Studios](https://www.instagram.com/smcm_hawkstudio/), SMCMs podcast studio. I also am the president of the Ping pong club and started climbing at our wall freshman year!<br/>
+<span style="font-family:comic-sans">  Hey, I'm Joe Daly here to give you Joe Daily. I'm a student at St Mary's College of Maryland studying Mathematics. Outside of education I work at the [Hawk Studios](https://www.instagram.com/smcm_hawkstudio/), SMCMs podcast studio. I also am the president of the Ping pong club and started climbing at our wall freshman year!<br/></span>
 
 Here's me (on the right) and my buddy Ex, somewhere in Solomons Island!<br/>
 ![Me](Personal/assets/Images/MeAndEx.jpg)<br/>
