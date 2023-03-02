@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Personal website
 markdown: kramdown
 logo: Personal/assets/Images/Joecool.png
