@@ -10,11 +10,8 @@ Layout: Single
         }
     </style>
 </head>
-<body>
-
-# Does this work
-I dont know lets Find out
-
-</body>
 
 </html>
+
+# How about this?
+Lets find out
