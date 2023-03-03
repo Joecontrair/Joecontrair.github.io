@@ -32,7 +32,7 @@ I also have a [Professional website](Joe'sResumePage/JoesResume.html) that has m
 # Silly stuff
 [Here's](Personal/SamAl.html) the first site I made when messing around with HTML<br/>
 [My buddy](Personal/Forrest.html)<br/>
-[Testing Stuff](Testing.md)
+[Testing Stuff](PErsonal/Testing.md)
 
 <audio id="myAudio" src="Personal\assets\Audio\Saint Pepsi - Enjoy yourself.mp3" type="Audio/mp3" preload="auto">
 </audio>
