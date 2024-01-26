@@ -8,28 +8,14 @@ Welcome to the Blog Page. Here I will hopefully have an index of Blogs or someth
 <!-- Comment -->
 # Posts
 Here I'll probably just have random posts and things that I'm testing out. 
-[Post 1](NormalPosts/Post1.md)<br/>
 [MathJax](NormalPosts/MathStuff.md)<br/>
-[Linux-Vs-Windows](NormalPosts/LinuxVsWindows.md)<br/>
-[Tired](NormalPosts/tired.md)<br/>
-[SMCM-LOl](NormalPosts/smcmLOL.md)<br/>
-
-# FOM stuff I did
-Old proofs and puzzles we did in my FOM course last year. <br/>
-[Negations](Pages/FOMproof.md)<br/>
-[Knights And Knaves](Pages/KnightsAndKnaves.md) <br/>
-[Simple odd proof](Pages/OddProof.md)<br/>
-[Various proofs](Pages/Several-proofs.md)<br/>
-[Division Algorithm](Pages/DivisionAlgorithm.md)<br/>
-[Congruence and Contrapositive](Pages/3-21-Class.md)<br/>
-[Some more proofs](Pages/MoreHWProofs.md)<br/>
-## Newer Number theory stuff
-I'm taking a number theory course and I figured I'd do what I did with FOM and upload some proofs and stuff that we worked on <br/>
+[Deep Dive into SMCM-LOL](NormalPosts/smcmLOL.md)<br/>
+[SMCM Beauty](NormalPosts/SMCMBeauty.md)
 
 # Interesting things
 Here I'll probably just post links to random websites or just things I found interesting
 <br/>
-On of my professors has her own website! Shes got some neat artwork and some fun things of her own going on! <br/>
+One of my professors has her own website! Shes got some neat artwork and some fun things of her own going on! <br/>
 
 [My Professors Website](http://faculty.smcm.edu/sgoldstine/) <br/>
 <br/>
@@ -43,5 +29,8 @@ My other bud Drake has been making some neat Vaporwave stuff? Or thats what they
 
 [Drakes Twitter](https://twitter.com/WorldlyDragon)
 
+# Archived
+Here's gonna be all my old posts that are pretty outdated or I just don't like but feel I should keep it up on the website!
+[Archived](Archived.md)
 
 [back](../index.md)

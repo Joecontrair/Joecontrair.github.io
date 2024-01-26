@@ -3,11 +3,7 @@
 <h2>"A 'student' blog about St Mary's Collge of Maryland"</h2>
 </center>
 
-Dates I worked on this:<br/>
-2/22/2023<br/>
-2/23/2023<br/>
-2/24/2023<br/>
-
+Posted: 2/24/23
 
 # What is it?
 [SMCMLOL](http://smcmlol.blogspot.com/) is a Blog page created on Blog spot in 2008 by a St Marys student who's online handle is Tom Seahawk, though it is later revealed that he is actually Ken Benjes. Perhaps you are an SMCM alumni reading this who went to St Mary's from 2008 to 2012 and even know him!
@@ -16,8 +12,9 @@ Dates I worked on this:<br/>
 # Why am I talking about it
 I mean partially because I felt like posting something but also because Beau showed me this little Blog a while ago, I think at the beginning of my junior year 2022, and I have finally gotten around to reading through it(or at the time of writing this part I was about half way through ish) and there are some funny things in it. He also talks about some things, like Rikaloffs, that are still St Marys classics. Though most people I know refer to Rikaloffs as Rickies. 
 
-# One more thing to get to before actually getting in to the actual stuffs
+## One more thing to get to before actually getting into it!
 Okay for one sorry that this is (or will be) such a hectic thing to read lol. I was about halfway through 2009 of the blog when I decided to start writing my own little thing on it. I also would read for a bit, write a little and then go back to reading and back and forth etc. so my writing is all over the place and as you will see I've made a couple edits and maybe if some of yall make suggestions or add to the SMCM lore I'll come back and make some more edits and such! Oh and if you're Ken Benjes reading this I'd love to get in contact and talk some time!!!! Maybe I'll see you next alumni weekend when I am working it! Now lets get into it.
+Edit: So I worked alumni weekend and I saw his name registered! I'm so mad though because I worked the day he was supposed to come and grab the keys from us, but I decided to take a coffee break and I told all my co workers about him before hand. When I left for my coffee break and came back all my coworkers told me I had just missed him! I'm so mad but oh well ={
 
 ## Green Door
 Green door is the one bar very close to the college (There's others I'm sure but this is by far the closest) and a lot of the students here have some pretty mixed opinions of it. I have gone twice now and I'm a fan lol. The first time I went was on a monday(it was actually last week slightly after my bithday!) when there were like 5 townies total in the bar and maybe another group of students I've recognized. Me and beau shot the shit and got the Pitcher and a Pizza deal they had goin on. It was worth but also I would not reccomend going on a monday normally, it's a little depressing lol. I got to go yesterday, a thursday, and that was pretty hype, lots of people, townies and students, and Pint night was an alright deal I think and I did some shots with ma peeps (Though I'm mad cause I bought like 2 rounds of shots, once to do it with ma peeps and the other partially cause I was simpin a lil). Anyway, tis a great time and I personally appreciate the door. But I was reading SMCMLOL and came upon a post hyping up the green door and he shared an old image of it and my god it looks like a shit hole. It still does don't get me wrong but jesus it was trash whenever that photo was taken. <br/>
